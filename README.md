@@ -1,9 +1,9 @@
-## Olá! Eu sou o Abner Gabriel 🖐️
+## Olá! Eu sou o Abner Gabriel 👨‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://instagram.com/_chamytoo?igshid=MjEwN2IyYWYwYw==)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abnergabriel567@gmail.com)
 
-![Afidelis GitHub stats](https://github-readme-stats.vercel.app/api?username=abner6abirel&show_icons=true&theme=onedark)
+![Afidelis GitHub stats](https://github-readme-stats.vercel.app/api?username=afidelis&show_icons=true&theme=onedark)
 ## Tecnologias que eu ultilizo 
 
 <div style="display: inline_block">
@@ -16,4 +16,4 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Alimentando  minha paixão por código, desbravando o desconhecido e abraçando a inovação tecnológica!!!
+Alimentando  minha paixão por código, desbravando o desconhecido e abraçando a inovação tecnológica🔋!!!
